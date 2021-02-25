@@ -9,6 +9,7 @@ My name is Riordan, and I am a full-stack software engineer and Teaching Associa
 - FIT2099: Object Oriented Design and Implementation, 
 - FIT2101: Software Engineering Process and Management, 
 - FIT3170: Software Engineering Practice
+
 In teaching, I love connecting with all of my students aside from just delivering content. I have successfully assisted students in developing & publishing several web applications. Now I have several interesting projects that I am mentoring:
 - Flexible web framework for research groups' landing page
 - Unblind the Android Apps with Deep Learning.
