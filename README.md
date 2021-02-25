@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ### Hello! 👋
 
-My name is Riordan 👨‍🚀, and I am a full-stack software engineer (freelancer) and teaching associate at Monash University, Melbourne, Australia. I teach Software Engineering core units:
+My name is Riordan 👨‍🚀! I am a full-stack software engineer (freelancer) and teaching associate at Monash University, Melbourne, Australia. I teach software engineering core units:
 - FIT2099: Object Oriented Design and Implementation, 
 - FIT2101: Software Engineering Process and Management, 
 - FIT3170: Software Engineering Practice
