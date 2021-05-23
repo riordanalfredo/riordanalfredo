@@ -20,8 +20,8 @@ In teaching, I have successfully mentored students in developing & publishing se
 At the same time, I am working on various software projects with `ReactJS`, `Redux`, `MobX`, `Quantlib`, `NodeJS`, `Gatsby`, `MongoDB`, `PostgreSQL`, and `Django` frameworks.
 
 ## TLDR;
-- 🔭 I’m currently working on Gatsby [blog](rioalfredo.com), Django ERP project, and MERN stack project.
-- 🌱 I’m currently studying Management (Learning) to pursue my dream - having a company that teach software/programming!
+- 🔭 I’m currently working on Gatsby [blog](rioalfredo.com), Apache Kafka with Java, Django ERP project, MERN stack project.
+- 🌱 I’m currently studying Management (Learning) to pursue my dream - owning an educational private company to teach software/programming!
 - 💬 Ask me about Software Engineering, Leadership, ReactJS development, Full-stack development, Deep learning, etc.
 - 📫 How to reach me: [rioalfredo.com](rioalfredo.com)
 - ⚡ Fun fact: I am a Capricorn Rat!🐐🐀( it is Western + Chinese Astrology)
