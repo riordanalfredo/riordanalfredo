@@ -12,24 +12,22 @@ My name is Riordan 👨‍🚀! I am a research software engineer (research assi
 - FIT2101: Software Engineering Process and Management, 
 - FIT3170: Software Engineering Practice
 
-In teaching, I have successfully guided and led students in developing & publishing web applications for their professional portfolio. I love connecting with my students aside from delivering contents. Now, I am working on several projects:
+In teaching, I have successfully guided and led students in developing & publishing web applications for their professional portfolio. I always establish positive relationship and bring safe environment in the class. Now, I am working on several projects:
 - Webpage Development for the Academic Research Group (`MERN stack`) - Mentor & QA engineer
 - Unblind Your App: Automatically Voicing Inaccessible Mobile Apps (`Android`, `Talkback API`, and `TensorFlow Lite`) - Mentor
-- Data capturing system for Multimodal Learning Analytics in clinical simulations (`Java`, `Confluent Cloud`, and `Apache Kafka`)- Research assistant/developer
-- Dropshipping system (`ReactJS` and `Spring MVC`) - Lead software engineer
+- Real time data capturing system for Multimodal Learning Analytics in clinical simulations (`Java`, `Confluent Cloud`, and `Apache Kafka`)- Research assistant/developer
+- Dropshipping system (`ReactJS` and `Spring MVC`) - Solo lead software engineer
 
-I am also assisting other teaching staffs as a co-mentor in the following projects:
+I am also assisting my teaching team as a co-mentor in the following projects:
 - Auto-marking system 
 - Visual Testing Platform for Android Apps 
 - Web portal for environmental monitoring in building environments 
 - Development of an Android mobile application to communicate with wearable health monitoring patches
 
-At the same time, I am working on various software projects with `ReactJS`, `Redux`, `MobX`, `Quantlib`, `NodeJS`, `Gatsby`, `MongoDB`, `PostgreSQL`, and `Django` frameworks.
-
 ## TLDR;
-- 🔭 I’m currently working on Gatsby [blog](rioalfredo.com), Apache Kafka with Java, Spring MVC dropshipping system project, MERN stack project.
-- 🌱 I’m currently studying Management (Learning) to pursue my dream - owning an educational private company to teach software/programming!
-- 💬 Ask me about Software Engineering, Leadership, ReactJS development, Full-stack development, Deep learning, etc.
+- 🔭 I’m currently working on Gatsby [blog](rioalfredo.com), Apache Kafka, Dropshipping system with Spring MVC, MERN stack project.
+- 🌱 I’m currently studying Management (Learning) to pursue my dream - owning an educational private company to teach software engineering/programming!
+- 💬 Ask me about Software Engineering, Leadership, Full-stack development, Research, Deep learning, etc.
 - 📫 How to reach me: [rioalfredo.com](rioalfredo.com)
 - ⚡ Fun fact: I am a Capricorn Rat!🐐🐀( it is Western + Chinese Astrology)
 
