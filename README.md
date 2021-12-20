@@ -12,6 +12,7 @@ My name is Riordan 👨‍🚀! I am a research software engineer (research assi
 - [FIT2101: Software Engineering Process and Management](https://handbook.monash.edu/2021/units/FIT2101), 
 - [FIT3077: Software Engineering: Architecture and Design](https://handbook.monash.edu/2022/units/FIT3077) - Admin TA 
 - [FIT3170: Software Engineering Practice](https://handbook.monash.edu/2022/units/FIT3170)
+
 In teaching, I have successfully guided and led students in developing & publishing web applications for their professional portfolio. I always establish positive relationship and bring fun environment in the class. 
 
 Now, I am working on several personal and professional projects as follows:
