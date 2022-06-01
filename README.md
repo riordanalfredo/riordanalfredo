@@ -3,7 +3,7 @@
 **riordanalfredo/riordanalfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-> Software engineering has always fascinated me. It covers all levels of complexity that satisfies my hunger for knowledge. The true challenge comes not only from the technology side but also from understanding business needs. The true challenge comes not only from the technology sides but also from understanding business needs. I am proficient in the design and development process, especially in the software architecture (design patterns, quality assurance, and human dynamics) with a couple years of industry experience.
+> Software engineering has always fascinated me. It covers all levels of complexity that satisfies my hunger for knowledge. The true challenge comes not only from the technology side but also from understanding business needs and people. I am proficient in the design and development process, especially in the software architecture (design patterns, quality assurance, and human dynamics) through academic research and industry experience.
 
 ### Hello! 👋
 
@@ -33,5 +33,5 @@ I am also assisting my teaching team as a co-mentor in the following projects:
 - 🌱 I’m currently studying PhD in Learning Analytics to pursue my dream: owning an educational private company to generate competent software engineers!
 - 💬 Ask me about Software Engineering, Leadership, Full-stack development, Research, Learning, and etc.
 - 📫 How to reach me: [rioalfredo.com](rioalfredo.com)
-- ⚡ Fun fact: I am an ENTJ Capricorn Rat🐐🐀( from Western + Chinese Astrology) and (6/2) Generator.
+- ⚡ Fun fact: I am Indonesian, ENTJ, Capricorn Rat🐐🐀, and (6/2) Generator.
 
