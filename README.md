@@ -27,6 +27,7 @@ I am also assisting my teaching team as a co-mentor in the following projects:
 - Visual Testing Platform for Android Apps 
 - Web portal for environmental monitoring in building environments 
 - Development of an Android mobile application to communicate with wearable health monitoring patches
+- [and more!](https://github.com/Monash-FIT3170)
 
 ## TLDR;
 - 🔭 I’m currently working on Microservices and IoT projects with various stacks.
