@@ -3,7 +3,7 @@
 **riordanalfredo/riordanalfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-> Software engineering has always fascinated me. It covers all levels of complexity that satisfies my hunger for knowledge. The true challenge comes not only from the technology side but also from understanding business needs and people. I am proficient in the design and development process, especially in the software architecture (design patterns, quality assurance, and human dynamics) through academic research and industry experience.
+> Software engineering has always fascinated me. It encompasses a vast spectrum of complexities, particularly in software architecture, design patterns, quality assurance, and human dynamics, that satiate my intellectual curiosity. The intrigue lies not merely in the technological aspects but also in understanding business requirements and human interactions. My proficiency in design and development has been honed through rigorous academic research in human-centred learning analytics and hands-on industry experience. This blend of knowledge and practical skills empowers me to navigate the multifaceted landscape of information and computer technology with confidence and finesse, especially in education technology. 
 
 ### Hello! 👋
 
@@ -13,14 +13,14 @@ My name is Riordan (Rio) 👨‍🚀! I am a research officer and teaching assoc
 - [FIT3077: Software Engineering: Architecture and Design](https://handbook.monash.edu/2022/units/FIT3077) - Admin TA 
 - [FIT3170: Software Engineering Practice](https://handbook.monash.edu/2022/units/FIT3170) - Mentor
 
-In teaching, I have successfully guided and led students in developing & publishing web applications for their professional portfolio. I always establish positive relationship and bring fun environment in the class. 
+In teaching, I have successfully guided and led students in developing & publishing web applications for their professional portfolios. I always establish positive relationships and bring a fun environment to the class. 
 
 Now, I am working on several professional and personal projects, as follows:
 - Real time data capturing system for Multimodal Learning Analytics in clinical simulations (`Java`, `Confluent Cloud`, and `Apache Kafka`)- Research assistant/developer
 - [Interactive Writing Tool](https://iwt.software) - Lead Software Engineer
 - Microservices ERP (`MERN`, `Spring MVC`, `Django`, `AWS` ) - CTO
 
-I am also assisting my teaching team as a co-mentor in the following projects:
+I am also assisting my software engineering teaching team as a co-mentor in the following projects:
 - Webpage Development for the Academic Researchers (`MERN stack`) - Mentor & QA engineer
 - Unblind Your App: Automatically Voicing Inaccessible Mobile Apps (`Android`, `Talkback API`, and `TensorFlow Lite`) - Mentor
 - Auto-marking system 
@@ -31,8 +31,8 @@ I am also assisting my teaching team as a co-mentor in the following projects:
 
 ## TLDR;
 - 🔭 I’m currently working on Microservices and IoT projects with various stacks.
-- 🌱 I’m currently studying PhD in Learning Analytics to pursue my dream: owning an educational private company to generate competent software engineers!
-- 💬 Ask me about Software Engineering, Leadership, Full-stack development, Research, Learning, and etc.
+- 🌱 I’m studying PhD in Learning Analytics to pursue my dream: running a private educational training centre to generate competent software engineers and AI developers!
+- 💬 Ask me about Software Engineering, Leadership, Full-stack development, Research, Learning, and more.
 - 📫 How to reach me: [rioalfredo.com](rioalfredo.com)
-- ⚡ Fun fact: I am Indonesian, ENTJ, Capricorn Rat🐐🐀, and (6/2) Generator.
+- ⚡ Fun fact: I am an Indonesian, ENTJ, Capricorn Rat🐐🐀, and (6/2) Generator.
 
