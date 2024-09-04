@@ -33,6 +33,6 @@ I am also assisting my software engineering teaching team as a co-mentor in the 
 - 🔭 I’m currently working on Microservices and IoT projects with various stacks.
 - 🌱 I’m studying PhD in Learning Analytics to pursue my dream: running a private educational training centre to generate competent software engineers and AI developers!
 - 💬 Ask me about Software Engineering, Leadership, Full-stack development, Research, Learning, and more.
-- 📫 How to reach me: [rioalfredo.com](rioalfredo.com)
+- 📫 How to reach me: [rioalfredo.com](https://rioalfredo.com)
 - ⚡ Fun fact: I am an Indonesian, ENTJ, Capricorn Rat🐐🐀, and (6/2) Generator.
 
