@@ -3,8 +3,6 @@
 **riordanalfredo/riordanalfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-> Software engineering has always fascinated me. It encompasses a vast spectrum of complexities, particularly in software architecture, design patterns, quality assurance, and human dynamics, that satiate my intellectual curiosity. The intrigue lies not merely in the technological aspects but also in understanding business requirements and human interactions. My proficiency in design and development has been honed through rigorous academic research in human-centred learning analytics and hands-on industry experience. This blend of knowledge and practical skills empowers me to navigate the multifaceted landscape of information and computer technology with confidence and finesse, especially in education technology. 
-
 ## Hello! 👋
 
 My name is Riordan (Rio) 👨‍🚀! I am a research officer and teaching associate at Monash University, Melbourne, Australia. I teach software engineering core units:
@@ -49,7 +47,16 @@ I am also assisting my software engineering teaching team as a mentor in the fol
 ## Stats
 [![Riordan's GitHub stats](https://github-readme-stats-omega-nine-55.vercel.app/api?username=riordanalfredo&show_icons=true&theme=ayu-mirage&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Riordan's WakaTime stats](https://github-readme-stats-omega-nine-55.vercel.app/api/wakatime?username=riordanalfredo&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>WakaTime & Programming Language Stats</summary>
+  <picture>
+    <source
+      srcset="https://github-readme-stats-omega-nine-55.vercel.app/api/wakatime?username=riordanalfredo&theme=ayu-mirage&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats-omega-nine-55.vercel.app/api/wakatime?username=riordanalfredo&theme=ayu-mirage&layout=compact" />
+  </picture>  
+</details>
 
 
 
