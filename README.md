@@ -39,13 +39,12 @@ I am also assisting my software engineering teaching team as a mentor in the fol
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-- 🌱 I’m a PhD candidate in Learning Analytics to pursue my dream of running a private educational training centre to generate competent software engineers and AI developers. Checkout my research: [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Riordan_Alfredo)
+- 🌱 I’m a PhD candidate in Learning Analytics, pursuing my dream of running a private educational training centre that produces top-tier software engineers and AI developers. Checkout my research: [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Riordan_Alfredo)
 - 💬 Ask me about Software Engineering, Leadership, Full-stack development, Research, Learning, and more. 
 - 📫 To reach me: [rioalfredo.com](https://rioalfredo.com/contact)
 - ⚡ Other facts: I am an Indonesian, ENTJ, Capricorn Rat🐐🐀, and a casual video gamer (Soulslike game, Dota 2, Baldur's Gate 3).
   
 ## Stats
-[![Riordan's GitHub stats](https://github-readme-stats-omega-nine-55.vercel.app/api?username=riordanalfredo&show_icons=true&theme=ayu-mirage&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>WakaTime & Programming Language Stats</summary>
@@ -55,6 +54,13 @@ I am also assisting my software engineering teaching team as a mentor in the fol
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-readme-stats-omega-nine-55.vercel.app/api/wakatime?username=riordanalfredo&theme=ayu-mirage&layout=compact" />
+  </picture>  
+  <picture>
+    <source
+      srcset="https://github-readme-stats-omega-nine-55.vercel.app/api?username=riordanalfredo&show_icons=true&theme=ayu-mirage&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats-omega-nine-55.vercel.app/api/wakatime?username=riordanalfredo&theme=ayu-mirage&layout=compact](https://github-readme-stats-omega-nine-55.vercel.app/api?username=riordanalfredo&show_icons=true&theme=ayu-mirage&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage" />
   </picture>  
 </details>
 
