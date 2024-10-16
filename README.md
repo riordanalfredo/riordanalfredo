@@ -33,7 +33,6 @@ I am also assisting my software engineering teaching team as a mentor in the fol
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -54,13 +53,6 @@ I am also assisting my software engineering teaching team as a mentor in the fol
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-readme-stats-omega-nine-55.vercel.app/api/wakatime?username=riordanalfredo&theme=ayu-mirage&layout=compact" />
-  </picture>  
-  <picture>
-    <source
-      srcset="https://github-readme-stats-omega-nine-55.vercel.app/api?username=riordanalfredo&show_icons=true&theme=ayu-mirage&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats-omega-nine-55.vercel.app/api/wakatime?username=riordanalfredo&theme=ayu-mirage&layout=compact](https://github-readme-stats-omega-nine-55.vercel.app/api?username=riordanalfredo&show_icons=true&theme=ayu-mirage&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage" />
   </picture>  
 </details>
 
