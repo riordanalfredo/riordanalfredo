@@ -19,7 +19,7 @@ I am currently working on several professional and personal projects, as follows
 - ERP Microservices (`MERN`, `Spring MVC`, `Django`, `Azure`, `Docker`, `Frappe`) - Full-stack Software Engineer (self-employed)
 
 I mentor the following Software Engineering projects:
-- [Rock-Paper-Shazam!](https://github.com/Monash-FIT3170/Shazam-3-Scrum-Unleashed): A multi-devices in-person party game (similar to Kahoot & JackboxTv)
+- [Rock-Paper-Shazam!](https://github.com/Monash-FIT3170/Shazam-3-Scrum-Unleashed): A multi-devices in-person party game (similar to Kahoot & JackboxTv) -- AVAILABLE ONLINE 👉 [https://rockpapershazam.cc/](https://rockpapershazam.cc/)
 - [JRVS](https://github.com/Monash-FIT3170/JRVS): An educational app that makes AI easy to understand and exciting to learn through a game-based interactive app.
 - [BaLance](https://github.com/Monash-FIT3170/BaLance-Team-Forming-Dashboard): A tool for teaching associates to split student cohorts into well Balanced teams that gel well together and work productively.
 - [Researchify](https://github.com/Researchify): Webpage Development for the Academic Researchers (`MERN stack`) 
