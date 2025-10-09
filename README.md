@@ -42,7 +42,7 @@ I mentor the following Software Engineering projects:
 - 🌱 I’m a PhD candidate in Learning Analytics, pursuing my dream of running a private educational training centre that produces top-tier software engineers and AI developers. Checkout my research: [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Riordan_Alfredo)
 - 💬 Ask me about Software Engineering, Leadership, Full-stack development, Research, Learning, and more. 
 - 📫 To reach me: [rioalfredo.com](https://rioalfredo.com/contact)
-- ⚡ Other facts: I am Indonesian, ENTJ, Capricorn Rat🐐🐀, and a casual video gamer (e.g., Dark Souls, Elden Ring, Dota 2, Baldur's Gate 3).
+- ⚡ Other facts: I am Indonesian and a casual video gamer (e.g., Dark Souls, Elden Ring, Dota 2, Baldur's Gate 3).
   
 ## Stats
 
