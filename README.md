@@ -16,7 +16,6 @@ I am currently working on several professional and personal projects, as follows
 - Real-time data capturing system for [Multimodal Learning Analytics](https://github.com/Teamwork-Analytics) in clinical simulations (`Java`, `Confluent Cloud`, and `Apache Kafka`)- Research assistant/developer
 - [Teamwork analytics dashboards](https://github.com/Teamwork-Analytics) and systems - PhD candidate & Software Engineer
 - Interactive Writing Tool - Lead Software Engineer (Casual contract)
-- ERP Microservices (`MERN`, `Spring MVC`, `Django`, `Azure`, `Docker`, `Frappe`) - Full-stack Software Engineer (self-employed)
 
 I mentor the following Software Engineering projects:
 - [Rock-Paper-Shazam!](https://github.com/Monash-FIT3170/Shazam-3-Scrum-Unleashed): A multi-devices in-person party game (similar to Kahoot & JackboxTv) -- AVAILABLE ONLINE 👉 [https://rockpapershazam.cc/](https://rockpapershazam.cc/)
