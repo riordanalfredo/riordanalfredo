@@ -9,13 +9,15 @@ My name is Riordan (Rio) 👨‍🚀! I am a research officer and teaching assoc
 I teach software engineering core units:
 - [FIT3170: Software Engineering Practice](https://handbook.monash.edu/2024/units/FIT3170) - Mentor (2021 - present)
 - [FIT2099: Object Oriented Design and Implementation](https://handbook.monash.edu/2024/units/FIT2099) - Educational Content Developer & Lead TA (2020 - present),
-- [FIT2101: Software Engineering Process and Management](https://handbook.monash.edu/2024/units/FIT2101) (2020), 
+- [FIT5136: Software Engineering](https://handbook.monash.edu/2025/units/FIT5136?year=2025) - TA (2025)
 - [FIT3077: Software Engineering: Architecture and Design](https://handbook.monash.edu/2024/units/FIT3077) - Admin TA (2022), TA (2025)
+- [FIT2101: Software Engineering Process and Management](https://handbook.monash.edu/2024/units/FIT2101) (2020), 
+
 
 I am currently working on several professional and personal projects, as follows:
 - Real-time data capturing system for [Multimodal Learning Analytics](https://github.com/Teamwork-Analytics) in clinical simulations (`Java`, `Confluent Cloud`, and `Apache Kafka`)- Research assistant/developer
 - [Teamwork analytics dashboards](https://github.com/Teamwork-Analytics) and systems - PhD candidate & Software Engineer
-- Interactive Writing Tool - Lead Software Engineer (Casual contract)
+- Interactive Writing Tool - Software Engineer (Casual contract)
 
 I mentor the following Software Engineering projects:
 - [Rock-Paper-Shazam!](https://github.com/Monash-FIT3170/Shazam-3-Scrum-Unleashed): A multi-devices in-person party game (similar to Kahoot & JackboxTv) -- AVAILABLE ONLINE 👉 [https://rockpapershazam.cc/](https://rockpapershazam.cc/)
