@@ -5,27 +5,27 @@ Here are some ideas to get you started:
 -->
 ## Hello! 👋
 
-My name is Riordan (Rio) 👨‍🚀! I am a research officer and teaching associate (TA) at Monash University, Melbourne, Australia. 
-I teach software engineering core units:
+I am a front-end engineer focused on UI/UX at MarkMyWords. In parallel, I conduct research in Learning Analytics and AI in Education and teach core software engineering units at Monash University in Melbourne, Australia.
+
+Units/subjects I am teaching (or have taught) include:
 - [FIT3170: Software Engineering Practice](https://handbook.monash.edu/2024/units/FIT3170) - Mentor (2021 - present)
 - [FIT2099: Object Oriented Design and Implementation](https://handbook.monash.edu/2024/units/FIT2099) - Educational Content Developer & Lead TA (2020 - present),
 - [FIT5136: Software Engineering](https://handbook.monash.edu/2025/units/FIT5136?year=2025) - TA (2025)
 - [FIT3077: Software Engineering: Architecture and Design](https://handbook.monash.edu/2024/units/FIT3077) - Admin TA (2022), TA (2025)
 - [FIT2101: Software Engineering Process and Management](https://handbook.monash.edu/2024/units/FIT2101) (2020), 
 
-
-I am currently working on several professional and personal projects, as follows:
-- Real-time data capturing system for [Multimodal Learning Analytics](https://github.com/Teamwork-Analytics) in clinical simulations (`Java`, `Confluent Cloud`, and `Apache Kafka`)- Research assistant/developer
-- [Teamwork analytics dashboards](https://github.com/Teamwork-Analytics) and systems - PhD candidate & Software Engineer
-- Interactive Writing Tool - Software Engineer (Casual contract)
-
-I mentor the following Software Engineering projects:
+I have mentored several software engineering projects, with 10+ developers per project, as follows:
 - [Rock-Paper-Shazam!](https://github.com/Monash-FIT3170/Shazam-3-Scrum-Unleashed): A multi-devices in-person party game (similar to Kahoot & JackboxTv) -- AVAILABLE ONLINE 👉 [https://rockpapershazam.cc/](https://rockpapershazam.cc/)
 - [JRVS](https://github.com/Monash-FIT3170/JRVS): An educational app that makes AI easy to understand and exciting to learn through a game-based interactive app.
 - [BaLance](https://github.com/Monash-FIT3170/BaLance-Team-Forming-Dashboard): A tool for teaching associates to split student cohorts into well Balanced teams that gel well together and work productively.
 - [Researchify](https://github.com/Researchify): Webpage Development for the Academic Researchers (`MERN stack`) 
 - Unblind Your App: Automatically Voicing Inaccessible Mobile Apps (`Android`, `Talkback API`, and `TensorFlow Lite`)
 - [...and more! (Please checkout our open-source projects here)](https://github.com/Monash-FIT3170)
+
+Some of my professional and personal projects:
+- Real-time data capturing system for [Multimodal Learning Analytics](https://github.com/Teamwork-Analytics) in clinical simulations (`Java`, `Confluent Cloud`, and `Apache Kafka`)- Research assistant/developer
+- [Teamwork analytics dashboards](https://github.com/Teamwork-Analytics) and systems - PhD candidate & Software Engineer
+- Interactive Writing Tool - Software Engineer (Casual contract)
 
 ## TLDR;
 [![wakatime](https://wakatime.com/badge/user/dae80e71-df95-4789-9fc7-635450f281fc.svg)](https://wakatime.com/@dae80e71-df95-4789-9fc7-635450f281fc)
