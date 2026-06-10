@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ## About me
 
-I'm a full-stack engineer with a strong frontend focus, currently building EdTech products at **MarkMyWords** in Melbourne. On the backend, I design and ship distributed systems (e.g., microservices, event-driven architectures, and real-time data pipelines) across open-source and personal projects.
+I'm a full-stack engineer with a strong frontend focus, currently building EdTech products at **MarkMyWords** in Melbourne. On the backend, I design and ship distributed systems (e.g., microservices, event-driven architectures, and real-time data pipelines) across open-source, research, and personal projects.
 
-I also have a research background in **Learning Analytics and AI in Education**, though what I actually love about that world is the *building* part: apps, dashboards, sensors, embedded hardware, data capture systems, and the messy real-time infrastructure that makes classroom insights possible. I teach software engineering at Monash University, where I get to share what I've learned with the next generation of engineers; which is the part of academia I genuinely enjoy (and I got an award for that!).
+I also have a research/academic background in **Learning Analytics and AI in Education**, though what I actually love about that world is the *building* part: apps, dashboards, sensors, embedded hardware, data capture systems, and the messy real-time infrastructure that makes classroom and teamwork insights possible. I teach software engineering at Monash University, where I get to share what I've learned with the next generation of engineers; which is the part of academia I genuinely enjoy (and I got an award for that!).
 
 Originally from Indonesia. Currently obsessed with IoT sensors, jazz + metal, and not dying in Souls Games (Elden Ring & Dark Souls).
 
